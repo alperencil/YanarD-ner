@@ -1,0 +1,17 @@
+.geceButton{
+    border: none;
+    background: transparent;
+}
+.geceButton:hover{
+    background: #333333;
+    border: 1px solid #fafafa;
+    color:#fafafa;
+}
+
+.geceModu{
+    background: black !important;
+    color: white !important;
+}
+.btnBorder{
+    border: 1px solid #fafafa;
+}

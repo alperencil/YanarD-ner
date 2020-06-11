@@ -1,0 +1,9 @@
+{
+    "name": "hasan/kentrehberi",
+    "description": "Yazılım mühendisliği ödevi",
+    "type": "project",
+    "require": {
+        "twbs/bootstrap": "^4.4",
+        "fortawesome/font-awesome": "^5.13"
+    }
+}

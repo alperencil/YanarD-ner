@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8c83b53-3ca3-447e-8de5-3ffc790ad4ea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="kentrehberi: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="kentrehberi: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="admin: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="kentrehberi: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="firmaistekleri: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="kentrehberi" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/twbs/bootstrap" />
+      <path value="$PROJECT_DIR$/vendor/fortawesome/font-awesome" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1a4nImcor66Pe5lRttPz8XVvGfj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/Views" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.Views">
+    <configuration name="kullaniciGiris.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/kentrehberi/kullaniciGiris.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Views" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/Views" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.Views" />
+        <item itemvalue="JavaScript Debug.kullaniciGiris.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@10b82074" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8c83b53-3ca3-447e-8de5-3ffc790ad4ea" name="Default Changelist" comment="" />
+      <created>1586003656092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586003656092</updated>
+      <workItem from="1586003659812" duration="11991000" />
+      <workItem from="1586081312723" duration="14020000" />
+      <workItem from="1586165285054" duration="7968000" />
+      <workItem from="1586203283154" duration="227000" />
+      <workItem from="1586203590042" duration="5634000" />
+      <workItem from="1586265178563" duration="7604000" />
+      <workItem from="1586294334812" duration="3504000" />
+      <workItem from="1586336513151" duration="10742000" />
+      <workItem from="1586420754987" duration="193000" />
+      <workItem from="1586425065580" duration="9806000" />
+      <workItem from="1586508323441" duration="19896000" />
+      <workItem from="1586603663845" duration="13317000" />
+      <workItem from="1586688009877" duration="2635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="266" y="31" key="#CLI_Interpreters" timestamp="1586342785012">
+      <screen x="0" y="23" width="1366" height="692" />
+    </state>
+    <state x="266" y="31" key="#CLI_Interpreters/0.23.1366.692@0.23.1366.692" timestamp="1586342785012" />
+    <state x="341" y="23" width="683" height="691" key="#Views" timestamp="1586165428215">
+      <screen x="0" y="23" width="1366" height="692" />
+    </state>
+    <state x="341" y="23" width="683" height="691" key="#Views/0.23.1366.691@0.23.1366.691" timestamp="1586102690199" />
+    <state x="341" y="23" key="#Views/0.23.1366.692@0.23.1366.692" timestamp="1586165428215" />
+    <state x="308" y="100" width="931" height="502" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586343467274">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state x="308" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1366.691@0.23.1366.691" timestamp="1586343467274" />
+    <state x="176" y="23" width="931" height="502" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1366.692@0.23.1366.692" timestamp="1586343152620" />
+    <state width="1324" height="189" key="GridCell.Tab.0.bottom" timestamp="1586552502967">
+      <screen x="0" y="23" width="1366" height="689" />
+    </state>
+    <state width="906" height="248" key="GridCell.Tab.0.bottom/0.23.1366.685@0.23.1366.685" timestamp="1586524628333" />
+    <state width="1324" height="189" key="GridCell.Tab.0.bottom/0.23.1366.689@0.23.1366.689" timestamp="1586552502967" />
+    <state width="906" height="249" key="GridCell.Tab.0.bottom/0.23.1366.691@0.23.1366.691" timestamp="1586366987564" />
+    <state width="906" height="249" key="GridCell.Tab.0.bottom/0.23.1366.692@0.23.1366.692" timestamp="1586343249588" />
+    <state width="1324" height="189" key="GridCell.Tab.0.center" timestamp="1586552502966">
+      <screen x="0" y="23" width="1366" height="689" />
+    </state>
+    <state width="906" height="248" key="GridCell.Tab.0.center/0.23.1366.685@0.23.1366.685" timestamp="1586524628333" />
+    <state width="1324" height="189" key="GridCell.Tab.0.center/0.23.1366.689@0.23.1366.689" timestamp="1586552502966" />
+    <state width="906" height="249" key="GridCell.Tab.0.center/0.23.1366.691@0.23.1366.691" timestamp="1586366987563" />
+    <state width="906" height="249" key="GridCell.Tab.0.center/0.23.1366.692@0.23.1366.692" timestamp="1586343249588" />
+    <state width="1324" height="189" key="GridCell.Tab.0.left" timestamp="1586552502964">
+      <screen x="0" y="23" width="1366" height="689" />
+    </state>
+    <state width="906" height="248" key="GridCell.Tab.0.left/0.23.1366.685@0.23.1366.685" timestamp="1586524628332" />
+    <state width="1324" height="189" key="GridCell.Tab.0.left/0.23.1366.689@0.23.1366.689" timestamp="1586552502964" />
+    <state width="906" height="249" key="GridCell.Tab.0.left/0.23.1366.691@0.23.1366.691" timestamp="1586366987562" />
+    <state width="906" height="249" key="GridCell.Tab.0.left/0.23.1366.692@0.23.1366.692" timestamp="1586343249587" />
+    <state width="1324" height="189" key="GridCell.Tab.0.right" timestamp="1586552502966">
+      <screen x="0" y="23" width="1366" height="689" />
+    </state>
+    <state width="906" height="248" key="GridCell.Tab.0.right/0.23.1366.685@0.23.1366.685" timestamp="1586524628333" />
+    <state width="1324" height="189" key="GridCell.Tab.0.right/0.23.1366.689@0.23.1366.689" timestamp="1586552502966" />
+    <state width="906" height="249" key="GridCell.Tab.0.right/0.23.1366.691@0.23.1366.691" timestamp="1586366987563" />
+    <state width="906" height="249" key="GridCell.Tab.0.right/0.23.1366.692@0.23.1366.692" timestamp="1586343249588" />
+    <state width="237" height="539" key="HiddenNamespacesPopup" timestamp="1586343505847">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state width="237" height="539" key="HiddenNamespacesPopup/0.23.1366.691@0.23.1366.691" timestamp="1586343505847" />
+    <state width="237" height="539" key="HiddenNamespacesPopup/0.23.1366.692@0.23.1366.692" timestamp="1586343262737" />
+    <state x="466" y="188" key="NewPhpClassDialog" timestamp="1586096087906">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state x="466" y="188" key="NewPhpClassDialog/0.23.1366.691@0.23.1366.691" timestamp="1586096087906" />
+    <state x="504" y="298" key="NewPhpFileDialog" timestamp="1586623218343">
+      <screen x="0" y="23" width="1366" height="689" />
+    </state>
+    <state x="504" y="296" key="NewPhpFileDialog/0.23.1366.685@0.23.1366.685" timestamp="1586518798070" />
+    <state x="504" y="298" key="NewPhpFileDialog/0.23.1366.689@0.23.1366.689" timestamp="1586623218343" />
+    <state x="504" y="298" key="NewPhpFileDialog/0.23.1366.691@0.23.1366.691" timestamp="1586368068754" />
+    <state x="254" y="23" key="SettingsEditor" timestamp="1586540583170">
+      <screen x="0" y="23" width="1366" height="685" />
+    </state>
+    <state x="254" y="23" key="SettingsEditor/0.23.1366.685@0.23.1366.685" timestamp="1586540583170" />
+    <state x="187" y="23" key="SettingsEditor/0.23.1366.691@0.23.1366.691" timestamp="1586294636128" />
+    <state x="187" y="23" key="SettingsEditor/0.23.1366.692@0.23.1366.692" timestamp="1586342934181" />
+    <state x="226" y="23" key="SettingsEditor/0.23.1366.694@0.23.1366.694" timestamp="1586206353108" />
+    <state x="192" y="23" key="SettingsEditor/0.23.1366.695@0.23.1366.695" timestamp="1586203511014" />
+    <state x="412" y="54" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1586343541351">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state x="412" y="54" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.23.1366.691@0.23.1366.691" timestamp="1586343541351" />
+    <state x="362" y="200" key="com.intellij.ide.util.TipDialog" timestamp="1586294361671">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state x="362" y="198" key="com.intellij.ide.util.TipDialog/0.23.1366.685@0.23.1366.685" timestamp="1586081313571" />
+    <state x="362" y="200" key="com.intellij.ide.util.TipDialog/0.23.1366.691@0.23.1366.691" timestamp="1586294361671" />
+    <state x="362" y="200" key="com.intellij.ide.util.TipDialog/0.23.1366.692@0.23.1366.692" timestamp="1586165285606" />
+    <state x="362" y="201" key="com.intellij.ide.util.TipDialog/0.23.1366.695@0.23.1366.695" timestamp="1586203594190" />
+    <state x="348" y="38" width="670" height="675" key="search.everywhere.popup" timestamp="1586295770754">
+      <screen x="0" y="23" width="1366" height="689" />
+    </state>
+    <state x="348" y="38" width="670" height="675" key="search.everywhere.popup/0.23.1366.689@0.23.1366.689" timestamp="1586295770754" />
+    <state x="348" y="38" width="670" height="676" key="search.everywhere.popup/0.23.1366.691@0.23.1366.691" timestamp="1586271625770" />
+    <state x="348" y="38" width="670" height="677" key="search.everywhere.popup/0.23.1366.692@0.23.1366.692" timestamp="1586280806828" />
+  </component>
+</project>
